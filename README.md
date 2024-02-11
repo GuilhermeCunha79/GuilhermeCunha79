@@ -1,9 +1,7 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGrwc2grhlzCQ/profile-displaybackgroundimage-shrink_350_1400/0/1705865390545?e=1713398400&v=beta&t=T8zn1vxrMtxbfrN3tNNhtzVPrBUZ_KWUDBd0rO5xRwg)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGrwc2grhlzCQ/profile-displaybackgroundimage-shrink_350_1400/0/1705865390545?e=1713398400&v=beta&t=T8zn1vxrMtxbfrN3tNNhtzVPrBUZ_KWUDBd0rO5xRwg)
 
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">------------------------</h3>
-
-<img align="right" alt="Coding" width="400" src="https://stock.adobe.com/pt/search?k=programmer+cartoon">
 
 - 🔭 I’m currently working on **Atriis Technologies**
 
