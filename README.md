@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">------------------------</h3>
 
-- 🔭 I’m currently working on **Atriis Technologies**
-
 - 📫 How to reach me **guilhermecunha1@outlook.pt**
 
 <h3 align="left">Connect with me:</h3>
