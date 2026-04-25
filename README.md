@@ -61,18 +61,3 @@ I'm a full-stack developer based in **Porto, Portugal**, passionate about buildi
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white)
  
----
- 
-## 📊 GitHub Stats
- 
-<div align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=guilhermecunha79&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)
- 
-</div>
----
- 
-<div align="center">
-  <i>Let's build something great together.</i><br/>
-  <a href="mailto:guilhermecunha1@outlook.pt">guilhermecunha1@outlook.pt</a>
-</div>
- 
